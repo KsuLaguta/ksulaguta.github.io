@@ -1,0 +1,8 @@
+[
+    {"id": "1","img": "./resources/makeup.svg","title":"Makeup","desc":"Our makeup experts will have you looking your best in less than 30 minutes."},
+    {"id": "2","img": "./resources/haircut.svg","title":"Haircut & Styling","desc":"Improve your look with our professional haircut & hairstyling services."},
+    {"id": "3","img": "./resources/manicure.svg","title":"Manicure & Pedicure","desc":"Pamper yourself with our manicure & pedicure services that will bring sensational results."},
+    {"id": "4","img": "./resources/skin.svg","title":"Skin Care","desc":"We offer a full range of relaxing skin care services, including all types of facials."},
+    {"id": "5","img": "./resources/body.svg","title":"Body Treatment","desc":"Rejuvenate your body with our invigorating body treatments for a better relaxation."},
+    {"id": "6","img": "./resources/massage.svg","title":"Massage","desc":"Our Massage Services can help you get rid of any negative emotions after a long busy day."}
+]
